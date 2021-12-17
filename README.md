@@ -584,6 +584,8 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 [Database] [SEBDB:Semantics Empowered BlockChain DataBase](https://ieeexplore.ieee.org/abstract/document/8731416). Yanchao Zhu, Zhao Zhang, Cheqing Jin, Aoying Zhou, Ying Yan. 2019.
 
+[Smart Contract] [On Sharding Open Blockchains with Smart Contracts](https://ieeexplore.ieee.org/abstract/document/9101451). Yuechen Tao, Bo Li, Jingjie Jiang, Hok Chu Ng, Cong Wang, Baochun Li. 2020.
+
 [Query] [Authenticated Keyword Search in Scalable Hybrid-Storage Blockchains](https://ieeexplore.ieee.org/abstract/document/9458753). Ce Zhang, Cheng Xu, Haixin Wang, Jianliang Xu, Byron Choi. 2021.
 
 ## Journals
